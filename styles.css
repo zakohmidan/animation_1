@@ -23,8 +23,9 @@ section h2 {
 }
 section h1 {
   color: #00ff0a;
+  margin: 17% auto;
   font-family: inherit;
-  font-weight: 15;
+  font-weight: 12;
   letter-spacing: 0.5px;
 }
 @keyframes changeColors {
