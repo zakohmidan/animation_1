@@ -24,7 +24,7 @@ section h2 {
 section h1 {
   color: #00ff0a;
   margin: 17% auto;
-  font-family: inherit;
+  font-family: consolas;
   font-weight: 12;
   letter-spacing: 0.5px;
 }
@@ -129,7 +129,7 @@ form {
 
 #submit {
   width: 25%;
-  height: 46px;
+  height: 42px;
   background: #00ff0a;
   font-family: inherit;
   font-weight: bold;
@@ -145,22 +145,8 @@ form {
   background: #d45d7d;
 }
   
-#banner{
-    /*position: absolute;*/
-    left: -100px; 
-    width: 160px;
-    height: 60px; 
-    background-color: yellow;    
-    text-align: right;
-}
-#banner2{
-    /*position: absolute;*/
-    right: -500px; 
-    width: 160px;
-    height: 60px; 
-    background-color: yellow;    
-    text-align: right;
-}
+
+
 input:focus {
   outline: none;
   outline: 2px solid #E86C8D;
