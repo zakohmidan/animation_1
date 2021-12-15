@@ -70,10 +70,12 @@ section .loader:last-child .dot {
   }
 }
 body {
-  background: #1b2b52;
   font-family: 'Lato', sans-serif;
   color: #FDFCFB;
   text-align: center;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 
