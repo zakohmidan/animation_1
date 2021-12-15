@@ -18,7 +18,12 @@ section {
   display: flex;
   align-items: center;
 }
-
+input:focus {
+  outline: none;
+  outline: 2px solid #E86C8D;
+  box-shadow: 0 0 2px #E86C8D;
+  background-color: yellow;    
+}
 
 .button {
   height: 44px;
