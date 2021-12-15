@@ -14,7 +14,16 @@ section {
   background-color: #001300;
   animation: changeColors 8s linear infinite;
 }
+.input {
+  display: flex;
+  align-items: center;
+}
 
+
+.button {
+  height: 44px;
+  border: none;
+}
 section h2 {
   color: #00ff0a;
   font-family: consolas;
