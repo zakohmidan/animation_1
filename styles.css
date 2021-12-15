@@ -16,11 +16,8 @@ section {
 }
 section2 {
   position: relative;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   background-color: #001300;
-  animation: changeColors 8s linear infinite;
+  /*animation: changeColors 8s linear infinite;*/
 }
 section h2 {
   color: #00ff0a;
